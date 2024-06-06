@@ -23,6 +23,7 @@ probability = experiment(
 0.356
 ```
 
+## Purpose
 For the purpose of reviewing python to follow cse 312. 
 
 

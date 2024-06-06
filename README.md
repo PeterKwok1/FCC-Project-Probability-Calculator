@@ -24,7 +24,7 @@ probability = experiment(
 ```
 
 ## Purpose
-For the purpose of reviewing python to follow cse 312. 
+To review python to follow cse 312. 
 
 
 
